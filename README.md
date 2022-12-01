@@ -1,4 +1,4 @@
-# A WYSIWYG editor in React and Typescript using [SlateJS](https://www.slatejs.org/examples/richtext)
+# Implement tables in [SlateJS](https://www.slatejs.org/examples/richtext)
 
 ## Requirements
 1. Application uses React and Typescript – can be run on a local machine via “npm
