@@ -7,7 +7,6 @@ const CustomElement = ({ attributes, children, element }: {
   element: Element;
 }) => {
   const style = { textAlign: element.align };
-  console.log(element)
 
   switch (element.type) {
     case 'spacer':
