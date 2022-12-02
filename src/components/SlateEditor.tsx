@@ -48,7 +48,7 @@ const SlateEditor = () => {
           {
             type: 'paragraph',
             children: [
-              { text: 'Insert a table using the "Add table" button above' },
+              { text: 'Insert a table using the "Create table" button above' },
             ],
           },
         ];
