@@ -1,5 +1,7 @@
 # Implement tables in [SlateJS](https://www.slatejs.org/examples/richtext)
 
+[View demo online](https://stackblitz.com/github/caycecollins/ca-wysiwyg)
+
 ## Tasks
 - [x] Application uses React and Typescript – can be run on a local machine via “npm
   install” and “npm run start”
