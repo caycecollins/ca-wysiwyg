@@ -2,7 +2,6 @@
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
-  text-align: center;
 }
 
 .menu {
@@ -15,9 +14,8 @@
 
 .menu > * {
   display: inline-block;
-}
-.menu > * + * {
-  margin-left: 15px;
+  margin-right: 12px;
+  margin-bottom: 8px;
 }
 
 .icon {
