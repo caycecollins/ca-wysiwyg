@@ -98,7 +98,7 @@ export const insertTableElement = ({ editor, columns, rows }: {
 }) => {
   const tableColumns = Array(columns).fill({
     type: 'table-cell',
-    children: [{ text: 'empty' }],
+    children: [{ text: '' }],
   });
   const tableRows = Array(rows).fill({
     type: 'table-row',
