@@ -1,11 +1,9 @@
 import './App.css';
 
+import SlateEditor from './components/SlateEditor';
+
 function App() {
-	return (
-		<div>
-			<p>A WYSIWYG editor in React and Typescript using SlateJS</p>
-		</div>
-	);
+  return <SlateEditor />;
 }
 
 export default App;
